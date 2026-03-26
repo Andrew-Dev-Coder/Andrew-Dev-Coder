@@ -1,5 +1,5 @@
 ## Andrew Nicholson 
-** Year 12 Student **
+**Year 12 Student**
 
 <!--
 Here are some ideas to get you started:
