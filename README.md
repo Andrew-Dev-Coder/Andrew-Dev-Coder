@@ -10,11 +10,11 @@
 
 **⚒️ Tech Stack**
 
-*Langauges*
-- Python
-- HTML5
-- CSS (Flexbox and grid)
-- Liquid injection
+  *Langauges*
+  - Python
+  - HTML5
+  - CSS (Flexbox and grid)
+  - Liquid injection
 
 **Personal Achievements**
 - ⛷️ BASI Ski level 1 adaptive
