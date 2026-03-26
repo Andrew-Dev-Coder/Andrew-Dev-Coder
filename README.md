@@ -9,11 +9,9 @@
 - BTEC Uniformed Protective Services
 
 **⚒️ Tech Stack**
-
-  *Langauges*
-  - Python
-  - HTML5
-  - CSS (Flexbox and grid)
+- Python
+- HTML5
+- CSS (Flexbox and grid)
   - Liquid injection
 
 **Personal Achievements**
