@@ -1,5 +1,14 @@
 ## Andrew Nicholson 
-**Year 12 Student**
+**Year 12 Student | Aspiring Full-Stack developer**
+*Portfolio: andrewcoder.dev*
+
+**📚 Currently Studying**
+- A-level Computer Science (OCR)
+- BTEC Information Technology
+- BTEC Uniformed Protective Services
+
+**Personal Achievements**
+- ⛷️ BASI Ski level 1 adaptive
 
 <!--
 Here are some ideas to get you started:
