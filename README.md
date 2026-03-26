@@ -10,6 +10,7 @@
 
 **⚒️ Tech Stack**
 
+*Langauges*
 - Python
 - HTML5
 - CSS (Flexbox and grid)
