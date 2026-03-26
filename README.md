@@ -12,7 +12,7 @@
 - Python
 - HTML5
 - CSS (Flexbox and grid)
-  - Liquid injection
+- Liquid injection
 
 **Personal Achievements**
 - ⛷️ BASI Ski level 1 adaptive
