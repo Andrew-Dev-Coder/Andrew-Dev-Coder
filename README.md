@@ -1,7 +1,7 @@
 ## Andrew Nicholson 
 **Year 12 Student | Aspiring Full-Stack developer**
 
-*[Portfolio](andrewcoder.dev)*
+[Portfolio](andrewcoder.dev)
 
 **📚 Currently Studying**
 - A-level Computer Science (OCR)
