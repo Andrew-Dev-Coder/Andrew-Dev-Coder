@@ -3,29 +3,21 @@
 
 [Portfolio](andrewcoder.dev)
 
+**⚒️ Tech Stack**
+- Python
+- HTML5
+- CSS (Flexbox and grid)
+- Jekyll (Liquid templating and Ruby gems)
+- Cloudflare Workers
+
+**Experience**
+- Developed and later refactored a production webpage for a client
+- Refactoring focused on improving responsiveness, maintainability, and accessibility
+
 **📚 Currently Studying**
 - A-level Computer Science (OCR)
 - BTEC Information Technology
 - BTEC Uniformed Protective Services
 
-**⚒️ Tech Stack**
-- Python
-- HTML5
-- CSS (Flexbox and grid)
-- Liquid injection
-
 **Personal Achievements**
-- ⛷️ BASI Ski level 1 adaptive
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛷️ BASI Level 1 Adaptive Ski course
