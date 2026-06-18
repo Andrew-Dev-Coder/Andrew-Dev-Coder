@@ -8,7 +8,6 @@ Portfolio [andrewcoder.dev](www.andrewcoder.dev)
 - HTML5
 - CSS (Flexbox and grid)
 - JavaScript
-- Kotlin
 - SQL
 - Jekyll (Liquid templating and Ruby gems)
 - GitHub
