@@ -1,7 +1,7 @@
 ## Andrew Nicholson 
 **Year 12 Student | Full-Stack developer**
 
-Portfolio [andrewcoder.dev](www.andrewcoder.dev)
+Portfolio [andrewcoder.dev](https://www.andrewcoder.dev)
 
 **⚒️ Tech Stack**
 - Python
